@@ -1,0 +1,26 @@
+{
+	"organizacion": "Laboratoria",
+	"direccion": "Av. José Pardo 601",
+	"profesores": ["Ivan", "Eli", "Gian"],
+	"asistentes": ["Maritza", "Meche"],
+	"administrativos": ["Mafe", "Andrea", "Malu", "etc."],
+	"tribus": ["Naboo", "Tatoine"],
+	"alumna1" : {
+		"codigo":"LIM1234",
+		"nombre" : "sofia",
+		"apellido":"caballero",
+		"tribu" : "naboo"
+	},
+	"alumna2" : {
+		"codigo":"LIM1234",
+		"nombre" : "evelin",
+		"apellido":"ortega",
+		"tribu" : "naboo"
+	},
+	"alumna3" : {
+		"codigo":"LIM1234",
+		"nombre" : "anabel",
+		"apellido":"espinar",
+		"tribu" : "naboo"
+	}	
+}
